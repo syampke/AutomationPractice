@@ -1,0 +1,1 @@
+adding a new notepad in the folder to check whether the gir repo update is correct
